@@ -11,4 +11,10 @@
 
   _Pozn.: Vodítkem může být komentář "TODO", který ukazuje místo v kódu, které je zapotřebí změnit. Obvykle se ještě mezi programátory používají označení pomocí komentářů "FIXME" nebo "XXX"._
 
-3. Proveďte `git commit` a na příštím PyLadies zkonzultujte úpravu kódu s ostatními účastnicemi nebo s kouči.
+3. Proveďte `git commit` s patřičným popisem toho, co nová úprava dělá.
+
+4. Zkuste změnit `okobere.py` tak, aby **počítač** přestal nabízet další pokračování tehdy, když **člověk** během hraní zadá příliš mnoho neplatných odpovědí. Např. po 10 neplatných odpovědích napíše "Tebe to nebaví? Mě taky ne!" a program skončí.
+
+  _Bylo by pěkné mít maximální počet neplatných odpovědí nastavený někde v části kódu s výchozími hodnotami, aby ten, kdo chce tuto hodnotu změnit, nemusel pátrat uprostřed kódu._
+
+5. Proveďte `git commit` a na příštím PyLadies zkonzultujte úpravu kódu s ostatními účastnicemi nebo s kouči.
