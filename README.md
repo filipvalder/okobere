@@ -18,3 +18,5 @@
   _Bylo by pěkné mít maximální počet neplatných odpovědí nastavený někde v části kódu s výchozími hodnotami, aby ten, kdo chce tuto hodnotu změnit, nemusel pátrat uprostřed kódu._
 
 5. Proveďte `git commit` a na příštím PyLadies zkonzultujte úpravu kódu s ostatními účastnicemi nebo s kouči.
+
+6. Kolik souborů je v tomto repozitáři? Zkuste si v textovém editoru zobrazit všechny další soubory.
