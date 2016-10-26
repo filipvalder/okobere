@@ -20,7 +20,7 @@ while body < 21:
     if rozhodnuti and rozhodnuti in 'nN':
         break
     elif rozhodnuti and rozhodnuti in 'aAyY':
-        body += randrange(2, 11)
+        body += randrange(2, 11)  # delsi zapis: body = body + randrange(...)
     # dostali jsme neplatnou odpoved :-(
     else:
         platna_odpoved = False
