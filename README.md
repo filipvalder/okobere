@@ -1,4 +1,6 @@
-# Úloha "Oko bere" z PyLadies/Ostrava 25.10.2016 pro pokročilé
+# Vítej na volně dostupné službě GitHub, kam programátoři dávají svůj otevřený kód. I Ty se zde můžeš zaregistrovat a službu využívat!
+
+## Úloha "Oko bere" z PyLadies/Ostrava 25.10.2016 pro pokročilé
 
 1. Pomocí příkazu `git clone https://github.com/filipvalder/okobere.git` si stáhněte obsah repozitáře. Stažený repozitář najdete v nově vzniklém podadresáři `okobere`.
 
